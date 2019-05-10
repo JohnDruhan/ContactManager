@@ -1,6 +1,9 @@
 # ContactManager
 A Contact Management App built with React
 
+App is deployed on Heroku here: https://stark-inlet-18439.herokuapp.com/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
